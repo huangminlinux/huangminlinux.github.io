@@ -78,7 +78,7 @@
 }
 #u4 {
   position:absolute;
-  left:180px;
+  left:176px;
   top:25px;
   width:100px;
   height:25px;
@@ -94,12 +94,12 @@
   font-style:normal;
   font-size:13px;
   text-decoration:none;
-  color:#FF0000;
+  color:#000000;
   text-align:center;
 }
 #u5 {
   position:absolute;
-  left:320px;
+  left:316px;
   top:25px;
   width:100px;
   height:25px;
@@ -120,8 +120,8 @@
 }
 #u6 {
   position:absolute;
-  left:460px;
-  top:25px;
+  left:464px;
+  top:22px;
   width:100px;
   height:25px;
 }
@@ -131,7 +131,7 @@
   top:0px;
   width:100px;
   height:25px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:13px;
